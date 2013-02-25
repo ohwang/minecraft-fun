@@ -28,13 +28,22 @@ save your shots in ./share for now, we'll move away soon
 ![broken-tower][pic2]
 ![look-like-what][pic3]
 ![what-a-chick][pic4]
+
+chicks got released by someone
+
 ![what-another-chick][pic5]
 ![warriors-burn-trees][pic6]
 ![ooooh-yeah][pic7]
 ![peace-before-adventure][pic8]
 ![guys-upset][pic9]
+
+Should stay together as one?
+
 ![never-leave-me-alone][pic10]
-![outside-the-door][pic10]
+
+Don't leave me alone, anyway
+
+![outside-the-door][pic11]
 
 [guanlun1]: https://raw.github.com/ohwang/minecraft-2b/master/share/guanlun-bombing.png
 
@@ -54,7 +63,9 @@ save your shots in ./share for now, we'll move away soon
 
 [pic9]: https://raw.github.com/ohwang/minecraft-2b/master/share/guys-upset.png
 
-[pic10]: https://raw.github.com/ohwang/minecraft-2b/master/share/outside-the-door.png
+[pic10]: https://raw.github.com/ohwang/minecraft-2b/master/share/never-leave-me-alone.png
+
+[pic11]: https://raw.github.com/ohwang/minecraft-2b/master/share/outside-the-door.png
 
 ### Reference
 
